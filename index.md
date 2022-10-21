@@ -6,6 +6,7 @@ title: Welcome to Joe's blog
 - Because it's cool.
 - Because it's useful for software devs and engineers.
 - Because I told you to.
+- It's super special awesome!
 
 #### Reasons you should love your mother:
 - Because she cooks you rice.
